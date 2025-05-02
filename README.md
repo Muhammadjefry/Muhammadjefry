@@ -1,5 +1,3 @@
-## Welcome Brother 👋
-
 ![Jefry](img/github-header-image.png)
 
 <!--

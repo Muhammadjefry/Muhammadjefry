@@ -10,8 +10,6 @@ While working on freelance projects, I also enjoy learning new tools, collaborat
 
 ##### Skills
 
-Here are some of the technologies and tools I'm familiar with:
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,php,wordpress,figma,py" />

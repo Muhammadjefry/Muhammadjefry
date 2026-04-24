@@ -14,10 +14,10 @@
 
 Hi, I'm **Muhammad Jefry Mulyanto** — a passionate **Full Stack Developer** from Indonesia 🇮🇩  
 
-- 💻 Focused on building clean & scalable web applications  
-- 🚀 Currently exploring deeper into backend & system architecture  
-- 🤝 Open for collaboration & freelance projects  
-- ⚡ Love turning ideas into real digital products  
+- 💻 Building clean & scalable web applications  
+- 🚀 Exploring backend & system architecture  
+- 🤝 Open for freelance & collaboration  
+- ⚡ Turning ideas into real digital products  
 
 ---
 
@@ -29,11 +29,11 @@ Hi, I'm **Muhammad Jefry Mulyanto** — a passionate **Full Stack Developer** fr
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00BFFF"/>
   <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
 </p>
 
+
 ---
+
 
 ## 📊 GitHub Stats
 
@@ -44,7 +44,7 @@ Hi, I'm **Muhammad Jefry Mulyanto** — a passionate **Full Stack Developer** fr
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Muhammadjefry&theme=tokyonight&hide_border=true&background=0D1117"/>
@@ -52,38 +52,49 @@ Hi, I'm **Muhammad Jefry Mulyanto** — a passionate **Full Stack Developer** fr
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muhammadjefry/Muhammadjefry/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Muhammadjefry/Muhammadjefry/output/snake.svg"/>
 </p>
 
 ---
 
-## 👾 Pacman Contribution
+## 📈 Contribution Overview
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammadjefry/Muhammadjefry/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammadjefry/Muhammadjefry/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Muhammadjefry/Muhammadjefry/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammadjefry&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
-  <a href="https://instagram.com/USERNAME">
+  <a href="https://instagram.com/jefrydev">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
-  <a href="https://linkedin.com/in/USERNAME">
+  <a href="https://linkedin.com/in/Muhammadjefry">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
 </p>
 
 ---
 
-<!-- Footer Wave -->
+## 🎮 Fun Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammadjefry/Muhammadjefry/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/Muhammadjefry/Muhammadjefry/output/pacman-contribution-graph.svg">
+</picture>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammadjefry&label=Profile%20Views&color=7F00FF&style=for-the-badge"/>
+</p>
+
+---
+
+<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
 </p>

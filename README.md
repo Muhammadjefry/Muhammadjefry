@@ -1,38 +1,66 @@
-# Hello, I'm Muhammad Jefry 👋
-
-## Welcome to my GitHub!
-
-I'm a passionate Web Developer & Freelancer who loves building websites that are clean, functional, and user-friendly. With a growing interest in fullstack development,I'm currently growing as a Fullstack Web Developer by deepening my understanding of both frontend and backend technologies.
-
-While working on freelance projects, I also enjoy learning new tools, collaborating with others, and helping fellow developers when I can.
-
----
-
-### 📌 Skills
-
+<!-- Banner Header -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,wordpress,figma,py" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Muhammad%20Jefry%20Mulyanto&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-
-### 🌎 Connect with me:
-
-![https//instagram.com/fry025](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/muhammadjefry015](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-### 📊 My GitHub Stats
-
-![Muhammad Jefry GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadjefry&show_icons=true&theme=radical)
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7F00FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+%7C+PHP+%7C+JavaScript;Building+Clean+%26+Modern+Web+Apps"/>
+</p>
 
 ---
 
-<br clear="both">
+## 👨‍💻 About Me
 
-<img src="https://raw.githubusercontent.com/Muhammadjefry/Muhammadjefry/output/snake.svg" alt="Snake animation" />
+Hi, I'm **Muhammad Jefry Mulyanto** — a passionate **Full Stack Developer** from Indonesia 🇮🇩  
 
-###
+- 💻 Focused on building clean & scalable web applications  
+- 🚀 Currently exploring deeper into backend & system architecture  
+- 🤝 Open for collaboration & freelance projects  
+- ⚡ Love turning ideas into real digital products  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammadjefry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadjefry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Muhammadjefry&theme=tokyonight&hide_border=true&background=0D1117"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Muhammadjefry/Muhammadjefry/output/snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 👾 Pacman Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammadjefry/Muhammadjefry/output/pacman-contribution-graph-dark.svg">
@@ -40,19 +68,22 @@ While working on freelance projects, I also enjoy learning new tools, collaborat
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Muhammadjefry/Muhammadjefry/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
-<!--
-**Muhammadjefry/Muhammadjefry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Connect With Me
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://instagram.com/USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+  </a>
+  <a href="https://linkedin.com/in/USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+</p>

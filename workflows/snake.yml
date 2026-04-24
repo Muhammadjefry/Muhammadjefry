@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Animations
 
 on:
   schedule:
@@ -10,15 +10,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 🐍 Snake
       - uses: Platane/snk@v3
         with:
           github_user_name: Muhammadjefry
           outputs: |
             dist/snake.svg
 
+      # 👾 Pacman
+      - uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: Muhammadjefry
+
+      # 🚀 Push ke branch output
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

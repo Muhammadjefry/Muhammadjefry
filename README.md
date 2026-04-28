@@ -60,14 +60,6 @@ Hi, I'm **Muhammad Jefry Mulyanto** — a passionate **Full Stack Developer** fr
 
 ---
 
-## 📈 Contribution Overview
-
-<p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammadjefry&theme=tokyonight"/>
-</p>
-
----
-
 ## 🌐 Connect
 
 <p align="center">
@@ -80,14 +72,14 @@ Hi, I'm **Muhammad Jefry Mulyanto** — a passionate **Full Stack Developer** fr
 </p>
 
 ---
-
+<!--  
 ## 🎮 Fun Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammadjefry/Muhammadjefry/output/pacman-contribution-graph-dark.svg">
   <img src="https://raw.githubusercontent.com/Muhammadjefry/Muhammadjefry/output/pacman-contribution-graph.svg">
 </picture>
-
+-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Muhammadjefry&label=Profile%20Views&color=7F00FF&style=for-the-badge"/>
 </p>
